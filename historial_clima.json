@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Los Angeles",
+    "temperatura": 19.99,
+    "descripcion": "cielo claro"
+  },
+  {
+    "nombre": "Boston",
+    "temperatura": 28.18,
+    "descripcion": "nubes"
+  },
+  {
+    "nombre": "New York",
+    "temperatura": 27.72,
+    "descripcion": "cielo claro"
+  }
+]
