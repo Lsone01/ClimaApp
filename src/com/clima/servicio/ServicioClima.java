@@ -11,7 +11,7 @@ import java.net.URL;
 import java.net.URLEncoder;
 
 public class ServicioClima {
-    public static final String API_KEY = "9aa52b86f4adf82098ca57d2ffab4f1d";
+    public static final String API_KEY = "API_KEY";
     public static final String URL_API = "https://api.openweathermap.org/data/2.5/weather?q=%s&units=metric&appid=%s&lang=es";
 
     public Clima obtenerClima(String ciudad) throws Exception {
